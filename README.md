@@ -20,9 +20,8 @@ Hi, I'm a fresher currently learning **HTML**, **CSS**, and other coding languag
 ## Projects
 
 ### 🚀 My Learning Projects:
- **Personal Portfolio Website**: 
+**AmazonPage**: 
    - A basic webpage built using HTML and styled with CSS.
-   - [https://github.com/21-aastha/html_css_project](#)
 
 ---
 
