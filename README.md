@@ -22,19 +22,16 @@ Hi, I'm a fresher currently learning **HTML**, **CSS**, and other coding languag
 ### 🚀 My Learning Projects:
  **Personal Portfolio Website**: 
    - A basic webpage built using HTML and styled with CSS.
-   - [View Repository](#)
+   - [https://github.com/21-aastha/html_css_project](#)
 
 ---
 
 ## Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com)
-[![Email](https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Email](https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white)](mailto:your-email@example.co)
 
----
 
-## GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
 
 ---
 
