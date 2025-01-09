@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi there! I am Aastha Dubey 👋
 
-<!--
-**21-aastha/21-aastha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+Hi, I'm a fresher currently learning **HTML**, **CSS**, and other coding languages. I'm passionate about exploring the world of web development and building creative projects. 
 
-Here are some ideas to get you started:
+- 🌱 Currently learning: HTML, CSS, and JavaScript
+- 💡 Goal: To become a skilled front-end developer
+- 🎯 Fun fact: I love solving logical puzzles and experimenting with design layouts!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Skills
+
+![HTML](https://img.shields.io/badge/-HTML-orange?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-blue?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=black)
+
+---
+
+## Projects
+
+### 🚀 My Learning Projects:
+ **Personal Portfolio Website**: 
+   - A basic webpage built using HTML and styled with CSS.
+   - [View Repository](#)
+
+---
+
+## Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com)
+[![Email](https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white)](mailto:your-email@example.com)
+
+---
+
+## GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+
+---
+
+### Thank you for visiting my profile! 😄
