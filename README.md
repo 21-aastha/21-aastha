@@ -28,8 +28,8 @@ Hi, I'm a fresher currently learning **HTML**, **CSS**, and other coding languag
 
 ## Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com)
-[![Email](https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white)](mailto:your-email@example.co)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aastha-dubey-86aa35292/)
+[![Email](https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white)](mailto:dubeyaastha21@gmail.com)
 
 
 
